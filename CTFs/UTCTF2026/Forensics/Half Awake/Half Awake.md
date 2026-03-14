@@ -79,7 +79,6 @@ To decode the file:
 ![CyberChef decoding process](../../Screenshots/half-awake-cyberchef.png)  
   
 ---  
-  ![[half-awake-cyberchef.png]]
 ## Flag  
 
 utflag{h4lf_aw4k3_s33_th3_pr0t0c0l_tr1ck}
