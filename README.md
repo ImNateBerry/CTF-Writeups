@@ -1,2 +1,2 @@
 # CTF-Writeups
-Writeups for CTF competitions I participated in
+Putting Writeups in here so I can keep track of notes and to better retain the skills I learned
